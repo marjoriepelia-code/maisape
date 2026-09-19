@@ -1,0 +1,6 @@
+{
+  "name": "Venda de Apartamentos Exclusivos",
+  "description": "Landing page de alta conversão para venda de apartamentos com formulários individuais de interesse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
